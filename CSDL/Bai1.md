@@ -130,7 +130,7 @@ chỉ đi theo hướng từ con đến cha.
 - Server gửi trả lời dưới dạng bảng hoặc quan hệ tới Client.  
 - Xu hướng chuyển nhiều công việc hơn cho Client bởi vì Server sẽ bị nghẽn nếu có nhiều người dùng cùng truy nhập.  
 
-Database server  
+### Database server  
 - Quản lý một CSDL để nhiều user cùng sử dụng đồng
 thời.  
 - Điều khiển an toàn trong các form truy nhập dữ liệu.  
